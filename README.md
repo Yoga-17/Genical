@@ -11,8 +11,8 @@ Genical utilizes advanced image recognition technology to provide users with ins
   
 ## Getting Started
 To get started with Genical, follow these steps:
-1. **Download the APK:** Get the Genical app on your Android device by downloading the APK file from the provided link.
-2. **Flutter Files:** Access and explore the Flutter project files via the shared Google Drive link.
+1. **Download the APK:** Get the Genical app on your Android device by downloading the APK file from the website.
+2. **Flutter Files:** Access and explore the Flutter project files via this github.
 3. **Explore Our Website:** Visit our official website to discover more about Genical and our services.
 
 ## Features
