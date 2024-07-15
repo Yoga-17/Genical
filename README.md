@@ -6,7 +6,7 @@ Welcome to Genical, where advanced image recognition meets medical tablets for i
 Genical utilizes advanced image recognition technology to provide users with instant, easy-to-understand information about any medical tablet from a photo. This repository contains the essential resources and Flutter files for our project.
 
 ## Key Links
-- Official Website: [Genical Website](https://www.genical.com)
+- Official Website: [Genical Website](https://www.genical.vercel.app)
 
 ## Getting Started
 To get started with Genical, follow these steps:
