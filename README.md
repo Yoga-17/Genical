@@ -1,16 +1,21 @@
-# genical
+#Genical: Your Medical Tablet Information Companion
+Welcome to Genical, where advanced image recognition meets medical tablets for instant, layman's terms information and reliable access to necessary medications!
 
-A new Flutter project.
+##Project Overview
+Genical utilizes advanced image recognition technology to provide users with instant, easy-to-understand information about any medical tablet from a photo. This repository contains the essential resources and Flutter files for our project.
 
-## Getting Started
+##Key Links
+Official Website: Genical Website
+APK Download: Download Genical APK
 
-This project is a starting point for a Flutter application.
+#Getting Started
+To get started with Genical, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+#Download the APK: Get the Genical app on your Android device by downloading the APK file from the provided link.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Explore Our Website: Visit our official website to discover more about Genical and our services.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Features
+- Instant information about medical tablets through image recognition.
+- Layman's terms explanations for easy understanding.
+- Access to necessary medications through online purchasing options.
