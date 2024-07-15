@@ -8,7 +8,7 @@ Genical utilizes advanced image recognition technology to provide users with ins
 
 ## Key Links
 - Official Website: [Genical Website](https://genical.vercel.app/)
-- 
+  
 ## Getting Started
 To get started with Genical, follow these steps:
 1. **Download the APK:** Get the Genical app on your Android device by downloading the APK file from the provided link.
