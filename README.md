@@ -11,6 +11,7 @@ LangFlow is employed in Genical to enhance our Gemini-like language model capabi
 
 ## Key Links
 - Official Website: [Genical Website](https://genical.vercel.app/)
+- Langflow: [Langflow](https://drive.google.com/file/d/19T2u3O8xb7l0al39Z07ou27e5fPMErgW/view)
   
 ## Getting Started
 To get started with Genical, follow these steps:
