@@ -6,6 +6,9 @@ Welcome to Genical, where advanced image recognition meets medical tablets for i
 ## Project Overview
 Genical utilizes advanced image recognition technology to provide users with instant, easy-to-understand information about any medical tablet from a photo. This repository contains the essential resources and Flutter files for our project.
 
+## Use of LangFlow in Genical
+LangFlow is employed in Genical to enhance our Gemini-like language model capabilities. It allows Genical to provide detailed information about medicines, including dosage, side effects, and usage instructions, in a clear and accessible manner.
+
 ## Key Links
 - Official Website: [Genical Website](https://genical.vercel.app/)
   
